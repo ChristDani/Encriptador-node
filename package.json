@@ -1,0 +1,46 @@
+{
+  "name": "challengeencriptador",
+  "version": "1.0.0",
+  "description": "Challenge del encriptador desarrollado por Christian Daniel Campaña Díaz",
+  "main": "./source/index.js",
+  "scripts": {
+    "devp": "node source/index.js",
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChristDani/Encriptador.git"
+  },
+  "keywords": [
+    "encriptador",
+    "christian",
+    "campaña",
+    "díaz",
+    "daniel",
+    "christian",
+    "daniel",
+    "campaña",
+    "díaz",
+    "desarrollo",
+    "challenge",
+    "alura",
+    "js",
+    "javascript",
+    "node",
+    "html5",
+    "css3",
+    "programa"
+  ],
+  "author": "Christian Daniel Campaña Díaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChristDani/Encriptador/issues"
+  },
+  "homepage": "https://github.com/ChristDani/Encriptador#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
